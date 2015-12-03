@@ -1,0 +1,9 @@
+<snippet>
+    <content>var_dump($TM_CURRENT_WORD);die();</content>
+    <!-- Optional: Tab trigger to activate the snippet -->
+    <tabTrigger>vardump</tabTrigger>
+    <!-- Optional: Scope the tab trigger will be active in -->
+    <scope>source.php</scope>
+    <!-- Optional: Description to show in the menu -->
+    <description>Var Dump and Die</description>
+</snippet>

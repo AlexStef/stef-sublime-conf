@@ -1,0 +1,5 @@
+{
+    "phpcs_execute_on_save": true,
+    "phpmd_executable_path" : "/usr/local/bin/phpmd",
+    "phpcs_executable_path": "/usr/local/bin/phpcs"
+}
