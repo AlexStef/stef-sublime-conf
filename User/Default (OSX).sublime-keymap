@@ -4,5 +4,7 @@
     { "keys": ["shift+tab"], "command": "unindent" },
     { "keys": ["super+i"], "command": "reindent" },
     { "keys": ["super+shift+w"], "command": "close_all" },
-    { "keys": ["ctrl+@"], "command": "show_panel", "args": {"panel": "console", "toggle": true} }
+    { "keys": ["super+alt+w"], "command": "close_others" },
+    { "keys": ["ctrl+@"], "command": "show_panel", "args": {"panel": "console", "toggle": true} },
+    { "keys": ["ctrl+k"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
 ]
